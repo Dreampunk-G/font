@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Hosting</title>
+</head>
+<body>
+    <h1>Font Hosting for p5.js</h1>
+    <p>This page is used to host font files for p5.js projects.</p>
+</body>
+</html>
